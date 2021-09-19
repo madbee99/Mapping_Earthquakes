@@ -1,4 +1,4 @@
-# Mapping_Earthquakes
+# Module 13 Challenge: Mapping_Earthquakes
 
 This challenge uses a MapBox API, GeoJSON formatting, and Leaflet to display various maps and overlays of earthquake data.
 
