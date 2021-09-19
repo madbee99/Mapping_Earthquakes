@@ -4,7 +4,7 @@ let cities = [{
     city: "New York City",
     state: "NY",
     population: 8398748
-  },
+  },  
   {
     location: [41.8781, -87.6298],
     city: "Chicago",

@@ -8,7 +8,7 @@ let map = L.map("mapid", {
   ],
   zoom: 4
 });
-
+  
 // Get data from cities.js
 let cityData = cities;
 
