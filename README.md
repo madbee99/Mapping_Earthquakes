@@ -24,7 +24,8 @@ This challenge uses a MapBox API, GeoJSON formatting, and Leaflet to display var
 * Major Earthquakes (shown on a pink colorscale -- fuchsia = magnitude > 6, hot pink = magnitude > 5, light pink = magnitude <= 5):  
 ![image](https://user-images.githubusercontent.com/86338416/133943672-2f7fbbd6-4a4a-49c4-b778-ce0e176795aa.png)  
 
-## All overlays shown at the same time on the satellite version of the map results in this display (the "Major Earthquakes" colorscale overrides the "Earthquakes" colorscale for the overlapping earthquake data in both datasets):  
+## All overlays shown at the same time on the satellite version of the map results in this display  
+(the "Major Earthquakes" colorscale overrides the "Earthquakes" colorscale for the overlapping earthquake data in both datasets):  
 ![image](https://user-images.githubusercontent.com/86338416/133943554-66c368d8-b154-4b30-9464-1347de33c191.png)
 
 
